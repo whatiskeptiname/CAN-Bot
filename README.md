@@ -15,7 +15,7 @@ CAN-Bot is an Arduino based bot developed for CAN InfoTech Birgunj 2019. It was 
 ## Images
 
 <div align="center">
-   <img src="./images/bot.jpg" width="20%" height="20%" />
+   <img src="./images/bot.jpg" width="40%" height="40%" />
 </div>
 
 ## Working
