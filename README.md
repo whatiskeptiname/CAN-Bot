@@ -5,12 +5,12 @@ CAN-Bot is an Arduino based bot developed for CAN InfoTech Birgunj 2019. It was 
 ## Components Used
 
 1. Arduino Uno
-2. Ultrasonic Sensor HC-SR04
-3. Servo Motor
-4. Bluetooth module HC-05
-5. Motor Driver L298N
-6. BO motor *4
-7. LiPo battery
+1. Ultrasonic Sensor HC-SR04
+1. Servo Motor
+1. Bluetooth module HC-05
+1. Motor Driver L298N
+1. BO motor *4
+1. LiPo battery
 
 ## Images
 
